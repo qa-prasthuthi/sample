@@ -1,0 +1,6 @@
+# Local settings
+# Override default settings here
+
+PORT=3000
+HOST=localhost
+LOG_LEVEL=debug
