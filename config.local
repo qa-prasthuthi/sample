@@ -1,0 +1,6 @@
+# Local configuration file
+# This file is typically used for environment-specific settings
+
+DATABASE_URL=localhost:5432
+API_KEY=your_api_key_here
+DEBUG_MODE=true

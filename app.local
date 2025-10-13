@@ -1,0 +1,5 @@
+# Application local configuration
+
+APP_NAME=MyApp
+ENVIRONMENT=development
+CACHE_ENABLED=false
