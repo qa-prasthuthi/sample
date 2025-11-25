@@ -1,4 +1,4 @@
-# Local configuration file
+# Local tester
 # This file is typically used for environment-specific settings
 
 DATABASE_URL=localhost:5432
