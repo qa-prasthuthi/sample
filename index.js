@@ -1,4 +1,4 @@
-// Main application entry point
+// Main application entry pointering
 
 function main() {
   console.log('Hello, World!');
