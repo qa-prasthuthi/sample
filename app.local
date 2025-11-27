@@ -3,3 +3,4 @@ megatron travis
 APP_NAME=MyApp
 ENVIRONMENT=development
 CACHE_ENABLED=false
+unicron
