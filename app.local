@@ -4,3 +4,4 @@ APP_NAME=MyApp
 ENVIRONMENT=development
 CACHE_ENABLED=false
 unicron
+god of war
