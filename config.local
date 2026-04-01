@@ -1,4 +1,4 @@
-# Local tester
+# Local tester optimus
 # This file is typically used for environment-specific settings
 megatron
 DATABASE_URL=localhost:5432
